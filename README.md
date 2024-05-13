@@ -30,15 +30,9 @@ The plugin can be installed via [Cordova-CLI][CLI] and is publicly available on 
 
 Execute from the projects root folder:
 
-    $ cordova plugin add cordova-plugin-badge
+install the latest head version:
 
-Or install a specific version:
-
-    $ cordova plugin add cordova-plugin-badge@VERSION
-
-Or install the latest head version:
-
-    $ cordova plugin add https://github.com/katzer/cordova-plugin-badge.git
+    $ cordova plugin add https://github.com/adilyildiz/cordova-plugin-badge.git
 
 Or install from local source:
 
